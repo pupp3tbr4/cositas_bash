@@ -14,3 +14,7 @@ done
 fi
 
 
+#EXEMPLE
+#┌──(kali㉿kali)-[~]
+#└─$ sh ./ping.sh 192.168.159
+
