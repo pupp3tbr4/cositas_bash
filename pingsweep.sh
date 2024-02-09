@@ -16,5 +16,5 @@ fi
 
 #EXEMPLE
 #┌──(kali㉿kali)-[~]
-#└─$ sh ./ping.sh 192.168.159
+#└─$ sh ./pingsweep.sh 192.168.159
 
